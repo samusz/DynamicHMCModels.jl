@@ -17,7 +17,7 @@ Converted to DynamicHMC 2.0
 
 ## Acknowledgements
 
-Tamas Papp has been very helpful during the development og the DynamicHMC versions of the models.
+Tamas Papp has been very helpful during the development of the DynamicHMC versions of the models.
 
 ## Questions and issues
 
